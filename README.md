@@ -1,8 +1,7 @@
-# I'm chybeta
+### Yoo, I'm tksye 👋
 
 <img align='right' src="./Fmfnaw0uaUTciV2Xggiybl3QdqAo.png" width="400">
 
-### Yoo, I'm tksye 👋
 - 知识星球：[【ChatGPT(限免)】](https://public.zsxq.com/groups/51128445244854.html)
 - ⚡ JAVA / Python.
 
